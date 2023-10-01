@@ -1,3 +1,5 @@
+// https://scrimba.com/learn/learnjavascript
+
 //=========================================================
 
 let firstName = 'Ian'
